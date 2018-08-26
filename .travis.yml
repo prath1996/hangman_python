@@ -3,4 +3,4 @@ python:
   - "3.6"
 cache: pip
 script:
-  - py.test --cov-report term-missing --cov app -v
+  - py.test
